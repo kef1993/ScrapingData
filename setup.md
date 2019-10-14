@@ -1,7 +1,7 @@
-In this tutorial, you will set up a scientific Python computing environment using the [Anaconda python distribution by Continuum Analytics](https://www.continuum.io/downloads).
+Before attending the course, you should set up a scientific Python computing environment using the [Anaconda python distribution by Continuum Analytics](https://www.continuum.io/downloads). This page describes how.
 
 ## Why Python?
-As is true in human language, there are hundreds of computer programming languages. While each has its own merit, the major languages for data science are Python and R. Both are good to know. Python has historically been more prominent outside of academia and for processing web data. Some cutting-edge statistical functions are only available in R libraries, while the most popular machine learning algorithms are likely to have more established Python libraries. Both are open source. Python code syntax can typically be read as if they were written in plain english, which makes the languages a useful tool for teaching and learning. but it is also very powerful language that is actively used in real-life research.
+As is true in human language, there are hundreds of computer programming languages. While each has its own merit, the major languages for scientific computing are C, C++, R, MATLAB, Python, Java, and Fortran. MATLAB and Python are similar in syntax and typically read as if they were written in plain english. This makes both languages a useful tool for teaching but they are also very powerful languages and are very actively used in real-life research. MATLAB is proprietary while Python is open source. A benefit of being open source is that anyone can write and release Python packages. For science, there are many wonderful community-driven packages such as NumPy, SciPy, scikit-image, and Pandas just to name a few.
 
 
 
@@ -20,13 +20,12 @@ With the Anaconda Python distribution, you can install verified packages (scient
    1. To open a terminal on OSX, click on the search icon in the upper right-hand corner of your menu bar and type "Terminal". This application is installed by default on your computer.
 
    2. On Windows,  press the “Windows Key” and on the search bar write “Anaconda Prompt”.
-2. To make sure your package manager is up to date, type "conda update conda" and return. Note that you will have to type `y` in your terminal when prompted. This is to ensure that you are aware of what is being installed and what dependencies it requires.
-3. To make sure all your packages are up to date, type `conda update anaconda` and return.
+2.
+
+
+Note that you will have to type `y` in your terminal when prompted. This is to ensure that you are aware of what is being installed and what dependencies it requires.
 
 When a library is not available through conda, you can use `pip`, a package manager with a larger number of libraries but limited to Python.  The syntax for pip is similar. For example, typing `pip install [x]` in the terminal will install the [x] library.
-
-
-
 
 
 

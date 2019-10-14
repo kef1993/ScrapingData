@@ -1,4 +1,0 @@
-# Scraping Data from the Internet and Government Documents
-## Neal Caren
-
-Over the last decade, the variety and types of data available to researchers have exploded. This data explosion includes not only contemporary data, such as from websites and social media platforms but also historical data, from digitized interviews to 19th-century newspapers. This applied workshop will provide an overview of methods of collecting data from online sources. The course will cover scrapping website and accessing web APIs. In addition, we will review methods for converting sets of documents, such as PDFs or Word Documents, into formats suitable for textual or statistical analysis. We will use Python, the most popular computer language for web scraping and data science. There are no prerequisites for the workshop, and enrollees will be provided with preparatory materials on the installation of Python and Python basics in advance of the course.
