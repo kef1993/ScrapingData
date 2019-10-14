@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Git
+.gitattributes
+.git/
+.sass-cache/
+.gitignore
+
 # C extensions
 *.so
 
