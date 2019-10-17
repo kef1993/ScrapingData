@@ -1,6 +1,6 @@
-# Scraping Data from the Internet and Government Documents
-*ASC 2019 Annual meeting*
-## Neal Caren (University of North Carolina, Chapel Hill)
+# Data from the Internet and Government Documents
+__ASC 2019 Annual meeting__
+__Neal Caren (University of North Carolina, Chapel Hill)__
 
 This workshop is a brief introduction to using Python to collect data from the internet. Before you arrive:
 
