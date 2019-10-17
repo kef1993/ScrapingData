@@ -11,4 +11,6 @@ This workshop is a brief introduction to using Python to collect data from the i
 3. Click on the `2_Python.ipynb` notebook. Read and complete the exercises in the notebook.
 3. Click on the `3_Data.ipynb` notebook. Read and complete the exercises in the notebook.
 
+I will provide the Jupyter notebooks we will be using during the workshop at a later date.
+
 Let [me](mailto:neal.caren@gmail.com) know if you have any problems.
