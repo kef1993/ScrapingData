@@ -12,5 +12,8 @@ Directions (starting from scratch):
 3. The other numbered notebooks are the materials that were covered in class.
 4. The `Bonus` notebooks detailed some additional techniques for data collection.
 
+The lessons can also be completed [entirely online](https://mybinder.org/v2/gh/nealcaren/scrapingdata/master?filepath=notebook) without installing anything on your computer.
 
 Let [me](mailto:neal.caren@gmail.com) know if you have any problems.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nealcaren/scrapingdata/master?filepath=notebooks)
