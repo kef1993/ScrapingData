@@ -1,0 +1,15 @@
+name: ScrapingData
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - requests
+  - pip
+  - matplotlib
+  - anaconda
+  - docx2txt
+  - PyPDF2
+  - slugify
+  - pip:
+    - requests-html
+    - newspaper3k
