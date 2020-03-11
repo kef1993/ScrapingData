@@ -10,11 +10,12 @@ Welcome to Scraping's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   setup/index
+
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
